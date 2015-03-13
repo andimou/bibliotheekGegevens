@@ -1,8 +1,7 @@
-# bibliotheekGegevens
-
 # Mapping Data to RDF data model
 
 input data: CSV format (?)
+
 output data: RDF data model - JSON-LD serialisation
 
 # Mapping data to the RDF data mode
